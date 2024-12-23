@@ -19,3 +19,4 @@ MarkupSafe==2.0.1
 protobuf==3.20.2
 ipywidgets==8.0.2
 altair<5
+seaborn
